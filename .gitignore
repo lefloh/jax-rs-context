@@ -1,0 +1,15 @@
+*~
+.DS_Store
+._.*
+.classpath
+.project
+.settings
+.eclipse
+.idea
+.forge_settings
+target/
+bin/
+classes/
+lib/
+gwt-unitCache/
+WEB-INF/deploy/
